@@ -16,7 +16,7 @@
 
 1. I'm unsure if my directed graph implementation is good enough. I'm still researching the topic.
 
-2. I need to implement a connection to fetch additional feed posts. This will involve using cursors in the post list to retrieve the next set of posts without duplicating any. The connection should also indicate whether there are more posts available. We can begin fetching the next batch of posts when the user scrolls near the end of the current list.
+2. I need to implement a paginated connection to fetch additional feed posts. This will involve using cursors in the post list to retrieve the next set of posts without duplicating any. The connection should also indicate whether there are more posts available. We can begin fetching the next batch of posts when the user scrolls near the end of the current list.
 
 3. The feed can grow too much in size if we keep adding JS code to handle different types of posts. A posible solution would to lazy load the required JS code depending on the posts information.
 
