@@ -24,9 +24,7 @@
 
 5. I'm not sure if we want to rely solely on RSCs. While they can enhance UX metrics, they also come with increased costs due to the use of server resources.
 
-[More info about the render-as-you-fetch-pattern](https://www.youtube.com/watch?v=Tl0S7QkxFE4)
-[More info about Atomic CSS](https://www.youtube.com/watch?v=9JZHodNR184)
-[Detailed implementations for handling social media at scale](https://www.youtube.com/watch?v=KT3XKDBZW7M)
+[More info about the render-as-you-fetch-pattern](https://www.youtube.com/watch?v=Tl0S7QkxFE4) | [More info about Atomic CSS](https://www.youtube.com/watch?v=9JZHodNR184) | [Detailed implementations for handling social media at scale](https://www.youtube.com/watch?v=KT3XKDBZW7M)
 
 ## Usage
 
